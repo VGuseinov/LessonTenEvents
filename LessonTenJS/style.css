@@ -1,0 +1,11 @@
+.mouse {
+    position: absolute;
+    z-index: 1;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: url('https://media.istockphoto.com/id/889651718/photo/wood-mouse-in-front-of-a-white-background.jpg?b=1&s=170667a&w=0&k=20&c=pYfEditxQAsUokbK2QSZdyr86NgVmYI-uZE7BENe3SY=') no-repeat;
+    background-size: 100%;
+    background-color: white;
+    transition: all 1s;
+}
